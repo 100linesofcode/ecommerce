@@ -8,7 +8,7 @@ import { Button, TextField, Grid, Typography, Link } from '@mui/material';
             return (
               <Grid container direction="column" alignItems="center" spacing={4}>
               <Grid item>
-                <Typography  variant="h5">Create Account</Typography>
+                <Typography  variant="h5">Create Accounts</Typography>
                 <Typography fontSize={12} variant="h6">Lets Create Your Account</Typography>
               </Grid>
               <Grid item>
